@@ -4,3 +4,5 @@ Cargo.lock
 **/*.rs.bk
 *.pdb
 kube/target/**
+eframe_template/target/**
+eframe_template/dist/**
